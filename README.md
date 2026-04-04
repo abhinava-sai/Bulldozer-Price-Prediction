@@ -4,7 +4,7 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/c/bluebook-for-bulldozers/data)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 
 An end-to-end machine learning project utilizing **Random Forest Regression** to predict the auction sale price of heavy equipment. This project explores advanced data preprocessing, time-series feature engineering, and hyperparameter optimization.
 
